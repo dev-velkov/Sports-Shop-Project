@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+}
+#menu{
+    height: 660px;
+    width: 200px;
+    background-color: lightskyblue;
+    display: inline-block;
+    float: left;
+
+}
+#menu ul{
+    margin: 0px;
+    list-style: none;
+}
+#menu li{
+
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+#menu li a{
+    text-decoration: none;
+    color: darkslategray;
+}
+#menu li:hover{
+    font-weight: bold;
+}
+#news{
+    width: 700px;
+    padding: 20px;
+    background: lightcyan;
+    margin: 0 auto;
+}
+#news h3{
+    text-align: center;
+}
+#news h6{
+    text-align: center;
+}
